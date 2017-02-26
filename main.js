@@ -5,7 +5,7 @@ const WilliamsR = require('technicalindicators').WilliamsR;
 
 const WRTHRESHOLD = -60.0;
 const WRPERIOD = 14;
-const TODAY = '2017-02-26';
+const TODAY = '2017-02-23';
 
 var SYMBOLS = [
     'BDCL',
